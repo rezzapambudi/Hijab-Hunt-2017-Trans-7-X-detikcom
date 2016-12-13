@@ -121,26 +121,15 @@
             </div>
         </div>
     </div>
-    
 </section>
-
 
 <?php include "about.php";?>
 <?php include "pendaftaran.php";?>
 <center>
-<?php include "video-section.php";?>
+  <?php include "video-section.php";?>
 </center>
-
-
-
-
-
-
 <?php include "footer.php";?>
 
-
-  
-  
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js"></script>
   <script src="assets/smooth-scroll/SmoothScroll.js"></script>
@@ -152,8 +141,6 @@
   <script src="assets/social-likes/social-likes.js"></script>
   <script src="assets/mobirise/js/script.js"></script>
   <script src="assets/mobirise-gallery/script.js"></script>
-  
-  
   
 </body>
 </html>
