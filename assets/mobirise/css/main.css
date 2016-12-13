@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
+
+
+.wrap{
+	color: aliceblue;
+    text-align:center;
+    font-size: 44px;
+    padding-top:50px;
+    
+}
+
+.type-wrap{
+	margin:10px auto;
+	padding:20px;
+	
+	border-radius:5px;
+	border:#CCC 1px solid;
+}
+
